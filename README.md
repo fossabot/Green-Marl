@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhongsup%2FGreen-Marl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhongsup%2FGreen-Marl?ref=badge_shield)
+
 1 Introduction
 ====================================
  
@@ -397,3 +399,7 @@ SUCH DAMAGE.
     [2] Green-Marl language specification (draft ver. 0.3)
     [3] G. Malewicz et al, "Pregel: A System for Large Scale Graph Processing", SIGMOD 2010.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhongsup%2FGreen-Marl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhongsup%2FGreen-Marl?ref=badge_large)
